@@ -25,6 +25,6 @@ MongoDB + Mongoose (Database)
 OpenAI / custom classifier (for AI risk prediction)
 
 Nodemailer (Email alerts)
- # figma link
+ # UI/UX Figma Link
  https://www.figma.com/design/zDVFTlcowP1tLKzDFVyCJX/MY-ANTO?node-id=0-1&t=7O6foMaUsPRG3fiC-1
  
